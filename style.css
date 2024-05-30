@@ -1,0 +1,18 @@
+body{
+    background: radial-gradient(rgb(255, 255, 130),rgb(255, 193, 107));
+    text-align: center;
+}
+img{
+    width: 600px;
+}
+div{
+    margin: 50px;
+}
+h1{
+    color: rgb(155, 67, 67);
+    font-size: 50px;
+    font-family: fantasy;
+}
+#fotografia{
+    height: 200px;
+}
